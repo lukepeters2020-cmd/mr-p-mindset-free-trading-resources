@@ -8,7 +8,7 @@ Chart shapes describe historical price arrangements. A label alone does not esta
 Price
   |        peak         peak       ?
   |--------- resistance area -----------
-  |      /     '      /     '
+  |      /     \      /     \
   |_____/       \____/       \___
   +------------------------------------> time
 ```
